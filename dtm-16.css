@@ -4,4 +4,5 @@
 	--jumboemojisize: 2rem; /* 2rem - old size; 3rem - new size, but you can set it to anything you want */
 	--extra-buttons: none; /* block = ON, none = OFF - show gift, gif and sticker buttons in the chat textbox */
 	--unread-bar: flex; /* flex = ON, none = OFF - show the "new unreads" bar in the channel list */
+	--qrcode-icon: block; /* block = ON, none = OFF - show or hide the discord logo icon in discord's qr codes (like on login screen) */
 }
