@@ -1,6 +1,9 @@
 # DTM-16
 A theme that tries to bring back the 2016 look of Discord.
 
+All issues should go here (and please use the dtm-16 label) -> https://github.com/XYZenix/XYZenixThemes/issues
+
+
 ## Features
 - Doesn't remove functionality (which was something that i was GOING to do as a joke)
 - Full light mode
